@@ -1,4 +1,3 @@
-import React from "react";
 import { useSwiper } from "swiper/react";
 import ArrowLeft from "@/assets/icons/arrow-left.svg?react";
 import ArrowRight from "@/assets/icons/arrow-right.svg?react";

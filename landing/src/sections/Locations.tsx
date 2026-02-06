@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "@/layout/Container";
 import ArrowLink from "@/assets/icons/arrow-link.svg?react";
 

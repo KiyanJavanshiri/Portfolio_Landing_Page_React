@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "@/layout/Container";
 import LogoIcon from "@/assets/icons/logo.svg?react";
 import InstagramIcon from "@/assets/icons/instagram.svg?react";

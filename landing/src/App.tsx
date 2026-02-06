@@ -1,5 +1,4 @@
 // https://www.figma.com/design/kIdnykZ0nAyR8X85mU04xA/Wedding-Website---Landing-Page--Community-?node-id=0-1&t=E6WkfEd5S128SZHS-1
-import React from "react";
 import Header from "./compositions/Header.tsx";
 import Preview from "./sections/Preview.tsx";
 import Locations from "./sections/Locations.tsx";

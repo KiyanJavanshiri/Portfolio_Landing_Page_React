@@ -1,4 +1,3 @@
-import React from "react";
 import { Formik, Form } from "formik";
 import { validationScheme } from "@/utils/validation";
 import Input from "@/components/Input";

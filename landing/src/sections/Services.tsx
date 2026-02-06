@@ -1,4 +1,3 @@
-import React from "react";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import DecorativeVector from "@/assets/icons/section-vector.svg?react";
 import DecorativeVectorDesktop from "@/assets/icons/section-vector-desk.svg?react";

@@ -1,6 +1,5 @@
-import React from "react";
-import Container from "@/layout/Container";
 import ExitIcon from "@/assets/icons/exit.svg?react";
+import Container from "@/layout/Container";
 
 interface BurgerMenuProps {
   paths: {

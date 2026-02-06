@@ -1,7 +1,5 @@
-import React from "react";
 import Container from "@/layout/Container.tsx";
 import ArrowDown from "@/assets/icons/arrow-down.svg?react";
-// pt-[127px] pb-[281px]
 
 const Preview = () => {
   return (
